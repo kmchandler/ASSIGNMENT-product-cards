@@ -3,8 +3,6 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  
-
   }
 
   .card {
@@ -23,4 +21,8 @@ body {
   border-bottom: solid 1px;
   border-bottom-style: solid;
   border-color: darkgrey;
+}
+
+img {
+  max-width: 100%;
 }
