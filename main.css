@@ -1,3 +1,26 @@
 body {
   background-color: lightgray;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+
   }
+
+  .card {
+    border-style: solid;
+    border-color: darkgrey;
+    border-width: 1px;
+  }
+
+  .product {
+    border-bottom: solid 1px;
+    border-bottom-style: solid;
+    border-color: darkgrey;
+  }
+
+  #title {
+  border-bottom: solid 1px;
+  border-bottom-style: solid;
+  border-color: darkgrey;
+}
